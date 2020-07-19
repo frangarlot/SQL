@@ -1,2 +1,2 @@
 # SQL
-SQL practice exercises in MySQL
+SQL practice exercises in MySQL.
